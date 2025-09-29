@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarth Prashar (@MYSTICxSAM)</h1>
-<h3 align="center">A passionate Web Developer & Tech Explorer 🚀</h3>
+<h3 align="center">A passionate Web Developer & Tech Explorer 🚀</h3>  
 
 ---  
     
