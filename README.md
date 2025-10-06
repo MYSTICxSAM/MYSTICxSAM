@@ -4,7 +4,7 @@
 ---  
     
 ### 👨‍💻 About Me  
-- 👀 I’m interested in **Web Development, AI, and solving challenging problems**  
+- 👀 I’m interested in **Web Development, AI, and solving challenging problems**       
 - 🌱 Currently learning **Advanced Web Development & Java**  
 - 💞️ Open to collaborating on **innovative real-world projects**  
 - 📫 Reach me: **samarthprashar1525@gmail.com** | [LinkedIn](https://www.linkedin.com/in/samarth-prashar-739053286/)  
