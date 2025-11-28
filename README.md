@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer & Tech Explorer 🚀</h3>   
 
 ---    
-    
+      
 ### 👨‍💻 About Me  
 - 👀 I’m interested in **Web Development, AI, and solving challenging problems**       
 - 🌱 Currently learning **Advanced Web Development & Java**  
