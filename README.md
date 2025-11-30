@@ -18,12 +18,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,cpp,git,github,vscode,tailwind,nodejs,mysql" />
 </p>
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MYSTICxSAM&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
 
 ---
 
