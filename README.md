@@ -21,12 +21,6 @@
 
 ---
 
-### 💻 LeetCode Stats  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Samarth1515?theme=dark&font=Source+Code+Pro&extension=activity" alt="LeetCode Stats" />
-</p>
-
----
   
 ### 🌐 Connect With Me  
 <p align="center">
